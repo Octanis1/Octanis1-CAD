@@ -1,3 +1,3 @@
 sam
 ?_? 
-Friday 13 June 2014  23 h 59 min 23 s Central European Summer Time
+Friday 20 June 2014  21 h 18 min 07 s Central European Summer Time
