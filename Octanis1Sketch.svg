@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64.5105436128mm" height="24.5249556199mm" viewBox="0 0 64.5105436128 24.5249556199" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g transform="translate(35.8086703099,8.89249930993) scale(1,-1)">
+<circle cx="21.069416993" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="21.069416993" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="21.069416993" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.0086782442" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.0086782442" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.0086782442" cy="-15.0" r="7.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pad" d="M -32.302871406 8.11494728435 L -32.302871406 8.11494728435 L -33.788626 8.260043 L -33.788626 8.260043 L -32.302871406 8.11494728435 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad" d="M -33.788626 8.260043 L -33.788626 8.260043 L -35.176214 4.883723 L -35.176214 4.883723 L -33.788626 8.260043 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad" d="M -35.176214 4.883723 L -35.176214 4.883723 L -33.882555 4.496098 L -33.882555 4.496098 L -35.176214 4.883723 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad" d="M -33.882555 4.496098 L -33.882555 4.496098 L -32.302871406 8.11494728435 L -32.302871406 8.11494728435 L -33.882555 4.496098 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad" d="M -32.302871406 8.11494728435 L -33.788626 8.260043 L -35.176214 4.883723 L -33.882555 4.496098 L -32.302871406 8.11494728435 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad" d="M -32.302871406 8.11494728435 L -33.788626 8.260043 L -35.176214 4.883723 L -33.882555 4.496098 L -32.302871406 8.11494728435 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+</g>
+</svg>
