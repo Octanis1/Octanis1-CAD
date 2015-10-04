@@ -13,32 +13,32 @@ generate = 0;    // GENERATE BOTH GEARS FOR VIEWING
 // generate = 2;    // GENERATE DRIVE GEAR FOR PRINTING
 
 // OPTIONS COMMON TO BOTH GEARS:
-distance_between_axels = 15;
-gear_h = 20;
-gear_shaft_h = 5;
+distance_between_axels = 21;
+gear_h = 27;
+gear_shaft_h = 6;
 
 
 // GEAR1 (SMALLER GEAR, STEPPER GEAR) OPTIONS:
 // It's helpful to choose prime numbers for the gear teeth.
-gear1_teeth = 10;
-gear1_shaft_d = 3;  			// diameter of motor shaft
+gear1_teeth = 13;
+gear1_shaft_d = 4;  			// diameter of motor shaft
 gear1_shaft_r  = gear1_shaft_d/2;	
 // gear1 shaft assumed to fill entire gear.
 // gear1 attaches by means of a captive nut and bolt (or actual setscrew)
-gear1_setscrew_offset = 0;			// Distance from motor on motor shaft.
-gear1_setscrew_d         = 0;		
+gear1_setscrew_offset = 3;			// Distance from motor on motor shaft.
+gear1_setscrew_d         = 3;		
 gear1_setscrew_r          = gear1_setscrew_d/2;
-gear1_captive_nut_d = 0;
+gear1_captive_nut_d = 5;
 gear1_captive_nut_r  = gear1_captive_nut_d/2;
-gear1_captive_nut_h = 0;
+gear1_captive_nut_h = 2;
 
 
 // GEAR2 (LARGER GEAR, DRIVE SHAFT GEAR) OPTIONS:
-gear2_teeth = 27;
+gear2_teeth = 23;
 gear2_shaft_d = 16;
 gear2_shaft_r  = gear2_shaft_d/2;
 // gear2 has settable outer shaft diameter.
-gear2_shaft_outer_d = 18;
+gear2_shaft_outer_d = 25;
 gear2_shaft_outer_r  = gear2_shaft_outer_d/2;
 
 // gear2 has a hex bolt set in it, is either a hobbed bolt or has the nifty hobbed gear from MBI on it.
@@ -47,13 +47,13 @@ gear2_bolt_hex_r        = gear2_bolt_hex_d/2;
 // gear2_bolt_sink: How far down the gear shaft the bolt head sits; measured as distance from drive end of gear.
 gear2_bolt_sink          = 0;		
 // gear2's shaft is a bridge above the hex bolt shaft; this creates 1/3bridge_helper_h sized steps at top of shaft to help bridging.  (so bridge_helper_h/3 should be > layer height to have any effect)
-bridge_helper_h=0;
+bridge_helper_h=1;
 
 gear2_rim_margin = 0;
 gear2_cut_circles  = 0;
 
 // gear2 setscrew option; not likely needed.
-gear2_setscrew_offset = 0;
+gear2_setscrew_offset    = 0;
 gear2_setscrew_d         = 0;
 gear2_setscrew_r          = gear2_setscrew_d/2;
 // captive nut for the setscrew
