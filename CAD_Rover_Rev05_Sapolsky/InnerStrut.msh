@@ -1,0 +1,14 @@
+$MeshFormat
+2.2 0 8
+$EndMeshFormat
+$PhysicalNames
+2
+2 1 "force1"
+2 2 "force2"
+$EndPhysicalNames
+$Nodes
+0
+$EndNodes
+$Elements
+0
+$EndElements
